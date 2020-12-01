@@ -1,0 +1,18 @@
+The dataset was generated in 1936 by the British statistician and biologist Ronald Fisher, it is perhaps the best known database to be found in the pattern recognition literature.
+The data set contains three classes of 50 instances each (Iris Setosa, Iris Versicolour and Iris Virginica), where each class refers to a type of iris plant.
+Each class is linearly separable from the other two classes. The Iris dataset can be used by a machine learning model to illustrate classification 
+The attribute information will include sepal length, sepal width, and petal length and petal width. All of them have the same unit, cm
+
+
+Attribute Information:
+
+1. sepal length in cm
+2. sepal width in cm
+3. petal length in cm
+4. petal width in cm
+5. class:
+-- Iris Setosa
+-- Iris Versicolour
+-- Iris Virginica
+
+It is a multivariate dataset with 5 attibutes and no missing values.
