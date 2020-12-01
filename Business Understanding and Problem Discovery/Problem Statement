@@ -1,3 +1,8 @@
-**Handwritten character recognization**
+**Flower Recognition Web App**
 
-The objective of this project is to recognize hand-written English alphabets from A-Z with the help of neural network model trained over a dataset containing images of alphabets.
+The aim of the project is to design and implement a system of pattern recognition for the Iris flower based on Machine Learning.
+Machine learning is the core of Artificial Intelligence (AI) and pattern recognition is also an important branch of AI.
+This project shows the workflow of pattern recognition and how to use machine learning approach to achieve this goal.
+The data set was collected from an open source website of machine learning. The programming language used in this project is Python.
+After the model is trained, the model has the ability to aggregate three different classifications of Iris flower to three categories.
+In the final stage of this project, the ML app will be deployed on web with the help of Flask API.
